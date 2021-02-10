@@ -1,0 +1,8 @@
+*.o
+*.elf
+*.ihex
+*.out
+**/build
+*.out
+.vscode
+

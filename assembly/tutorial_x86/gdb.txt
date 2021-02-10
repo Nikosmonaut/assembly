@@ -1,0 +1,5 @@
+Already logging to gdb.txt.
+Already logging to gdb.txt.
+Already logging to gdb.txt.
++print msg
+'msg' has unknown type; cast it to its declared type
